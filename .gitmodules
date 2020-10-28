@@ -1,0 +1,6 @@
+[submodule "modbus-core"]
+	path = modbus-core
+	url = https://github.com/slowtec/modbus-core.git
+[submodule "serialport-rs"]
+	path = serialport-rs
+	url = https://gitlab.com/susurrus/serialport-rs.git
